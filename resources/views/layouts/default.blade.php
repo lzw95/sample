@@ -5,7 +5,7 @@
 		<title>@yield('title', 'sample') - 学习Laravel</title>
 	</head>
 	<body>
-		@yield('content')
+		@yield('content')	
 	</body>
 </html>
 
